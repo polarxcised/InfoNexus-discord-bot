@@ -237,22 +237,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-## 🖼️ Screenshots
-
-### **1. Registration**
-
-![Registration Command](https://github.com/AnshKabra2012/InfoNexus-discord-bot/raw/main/screenshots/register.png)
-
-### **2. Help Menu**
-
-![Help Command](https://github.com/AnshKabra2012/InfoNexus-discord-bot/raw/main/screenshots/help.png)
-
-### **3. Trivia Game**
-
-![Trivia Command](https://github.com/AnshKabra2012/InfoNexus-discord-bot/raw/main/screenshots/trivia.png)
-
----
-
 ## 🎉 Acknowledgments
 
 - [Official Joke API](https://official-joke-api.appspot.com/)
