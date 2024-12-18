@@ -1,7 +1,5 @@
 # 🚀 **InfoNexus Discord Bot**
 
-![InfoNexus Banner](https://github.com/AnshKabra2012/InfoNexus-discord-bot/raw/main/banner.png)
-
 **InfoNexus** is your ultimate Discord companion, packed with over **100 unique commands** that provide a wealth of information, fun facts, interactive experiences, and much more! Whether you're looking to brighten your server with jokes, dive into trivia, or fetch the latest tech news, InfoNexus has got you covered.
 
 ---
