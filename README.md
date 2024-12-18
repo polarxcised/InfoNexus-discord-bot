@@ -219,7 +219,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 - **GitHub:** [AnshKabra2012](https://github.com/AnshKabra2012)
 - **GitHub Repository:** [InfoNexus-discord-bot](https://github.com/AnshKabra2012/InfoNexus-discord-bot)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [anshkabra.india@gmail.com](mailto:anshkabra.india@gmail.com)
 
 ---
 
