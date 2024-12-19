@@ -11,6 +11,7 @@ import asyncio
 import logging
 import json
 from datetime import datetime
+from discord import Activity, ActivityType
 
 # Load environment variables from .env file
 load_dotenv()
@@ -65,12 +66,10 @@ def save_user_data(data):
     with open(USER_DATA_FILE, "w") as f:
         json.dump(data, f, indent=4)
 
-# Event: Bot is ready
 @bot.event
 async def on_ready():
-    logger.info(f"Logged in as {bot.user} (ID: {bot.user.id})")
-    logger.info("------")
-    bot.launch_time = datetime.utcnow()
+    await bot.change_presence(activity=Activity(type=ActivityType.watching, name="AnshKabra2012"))
+    print(f"Logged in as {bot.user}")
 
 # Helper Functions
 
