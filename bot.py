@@ -780,7 +780,7 @@ def is_registered():
 @bot.command(name="about", help="Get information about the bot. Usage: !about")
 async def about(ctx):
     # Fetch GitHub user data
-    github_username = "anshkabra2012"
+    github_username = "polarxcised"
     github_data = fetch_github_user(github_username)
 
     if github_data:
@@ -798,7 +798,7 @@ async def about(ctx):
         )
         embed.add_field(
             name="💻 GitHub Repository",
-            value="[InfoNexus-discord-bot](https://github.com/anshkabra2012/InfoNexus-discord-bot)",
+            value="[InfoNexus-discord-bot](https://github.com/polarxcised/InfoNexus-discord-bot)",
             inline=False
         )
         embed.add_field(
@@ -823,7 +823,7 @@ async def about(ctx):
         )
         embed.add_field(
             name="💻 GitHub Repository",
-            value="[InfoNexus-discord-bot](https://github.com/anshkabra2012/InfoNexus-discord-bot)",
+            value="[InfoNexus-discord-bot](https://github.com/polarxcised/InfoNexus-discord-bot)",
             inline=False
         )
         embed.set_footer(text="Thank you for using InfoNexus!", icon_url=github_logo_url)
